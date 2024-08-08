@@ -1,5 +1,5 @@
 
-export default function CounterButton({by, incrementMethod, decrementMethod, rese}){
+export default function CounterButton({by, incrementMethod, decrementMethod}){
     //array, with function ( these two things return the useState() method
 
     function incrementCounterFunction(){
